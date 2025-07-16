@@ -19,7 +19,7 @@ This machine learning app helps HR professionals and analysts predict whether an
 ## 🧪 Dataset
 
 - Source: [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- Includes 34 features per employee across roles, performance, income, and satisfaction
+- Includes 15 features per employee across roles, performance, income, and satisfaction
 
 ---
 
